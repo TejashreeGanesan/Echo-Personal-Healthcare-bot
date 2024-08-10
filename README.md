@@ -69,6 +69,5 @@ Say "Leave" or any other exit command to stop the chatbot.
 
 ## Screenshot
 
-![![image](https://github.com/user-attachments/assets/af97fd70-05b8-4a93-9788-b79a1de96924)
-]
-]
+![![image](https://github.com/user-attachments/assets/af97fd70-05b8-4a93-9788-b79a1de96924)]
+
