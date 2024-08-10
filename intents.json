@@ -1,0 +1,193 @@
+{
+    "intents": [
+        {
+            "tag": "Flu",
+            "patterns": [
+                "fever, cough, sore throat, runny nose, muscle aches"
+            ],
+            "responses": [
+                "You might have the flu. Consider seeing a healthcare provider for proper diagnosis and treatment."
+            ]
+        },
+        {
+            "tag": "Common Cold",
+            "patterns": [
+                "runny nose, sneezing, sore throat, mild cough, mild fever"
+            ],
+            "responses": [
+                "You might have a common cold. Rest and hydration are usually sufficient for recovery."
+            ]
+        },
+        {
+            "tag": "Stomach Virus",
+            "patterns": [
+                "nausea, vomiting, diarrhea, stomach cramps, fever"
+            ],
+            "responses": [
+                "You might have a stomach virus. Ensure you stay hydrated and consider consulting a doctor if symptoms persist."
+            ]
+        },
+        {
+            "tag": "Allergy",
+            "patterns": [
+                "itchy eyes, sneezing, runny nose, hives, swelling"
+            ],
+            "responses": [
+                "You might be experiencing an allergy. Avoiding allergens and taking antihistamines may help."
+            ]
+        },
+        {
+            "tag": "Migraine",
+            "patterns": [
+                "severe headache, nausea, sensitivity to light, dizziness"
+            ],
+            "responses": [
+                "You might be having a migraine. Rest in a quiet, dark room and consider over-the-counter pain relief."
+            ]
+        },
+        {
+            "tag": "Sinusitis",
+            "patterns": [
+                "facial pain, nasal congestion, headache, cough, fever"
+            ],
+            "responses": [
+                "You might have sinusitis. Drinking plenty of fluids and using a humidifier may provide relief."
+            ]
+        },
+        {
+            "tag": "Chickenpox",
+            "patterns": [
+                "itchy rash, red spots, fever, tiredness, loss of appetite"
+            ],
+            "responses": [
+                "You might have chickenpox. Keep the rash clean and consult a healthcare provider for advice."
+            ]
+        },
+        {
+            "tag": "Conjunctivitis",
+            "patterns": [
+                "red eyes, itchy eyes, watery discharge, swollen eyelids"
+            ],
+            "responses": [
+                "You might have conjunctivitis (pink eye). Avoid touching your eyes and consult a doctor for treatment."
+            ]
+        },
+        {
+            "tag": "Bronchitis",
+            "patterns": [
+                "persistent cough, mucus production, wheezing, chest discomfort"
+            ],
+            "responses": [
+                "You might have bronchitis. Rest and staying hydrated are important. Consider seeing a doctor if symptoms persist."
+            ]
+        },
+        {
+            "tag": "Pneumonia",
+            "patterns": [
+                "cough with phlegm, fever, chills, shortness of breath, chest pain"
+            ],
+            "responses": [
+                "You might have pneumonia. Seek medical attention immediately for a proper diagnosis and treatment."
+            ]
+        },
+        {
+            "tag": "Diabetes",
+            "patterns": [
+                "increased thirst, frequent urination, fatigue, blurred vision"
+            ],
+            "responses": [
+                "You might have diabetes. It's important to consult a healthcare provider for a blood sugar test and further advice."
+            ]
+        },
+        {
+            "tag": "Hypertension",
+            "patterns": [
+                "headache, dizziness, shortness of breath, chest pain"
+            ],
+            "responses": [
+                "You might have hypertension. Regular check-ups and lifestyle changes can help manage blood pressure."
+            ]
+        },
+        {
+            "tag": "Asthma",
+            "patterns": [
+                "wheezing, shortness of breath, coughing, chest tightness"
+            ],
+            "responses": [
+                "You might have asthma. Using an inhaler and avoiding triggers can help manage symptoms."
+            ]
+        },
+        {
+            "tag": "Gastritis",
+            "patterns": [
+                "stomach pain, nausea, vomiting, loss of appetite, bloating"
+            ],
+            "responses": [
+                "You might have gastritis. Avoiding spicy or acidic foods and consulting a doctor can help."
+            ]
+        },
+        {
+            "tag": "Eczema",
+            "patterns": [
+                "itchy skin, red rashes, dry skin, inflammation"
+            ],
+            "responses": [
+                "You might have eczema. Moisturizing your skin and avoiding irritants may provide relief."
+            ]
+        },
+        {
+            "tag": "Psoriasis",
+            "patterns": [
+                "dry, scaly skin patches, itching, redness, inflammation"
+            ],
+            "responses": [
+                "You might have psoriasis. Topical treatments and managing stress can help control symptoms."
+            ]
+        },
+        {
+            "tag": "Tuberculosis",
+            "patterns": [
+                "persistent cough, weight loss, night sweats, fever"
+            ],
+            "responses": [
+                "You might have tuberculosis. It's crucial to get tested and treated under medical supervision."
+            ]
+        },
+        {
+            "tag": "Hepatitis",
+            "patterns": [
+                "yellowing of skin, dark urine, abdominal pain, nausea, fatigue"
+            ],
+            "responses": [
+                "You might have hepatitis. Consult a healthcare provider for testing and appropriate treatment."
+            ]
+        },
+        {
+            "tag": "Laryngitis",
+            "patterns": [
+                "hoarseness, sore throat, dry cough, difficulty speaking"
+            ],
+            "responses": [
+                "You might have laryngitis. Resting your voice and drinking warm fluids can help."
+            ]
+        },
+        {
+            "tag": "Herpes",
+            "patterns": [
+                "painful sores, itching, burning sensation, swelling"
+            ],
+            "responses": [
+                "You might have herpes. Antiviral medications can help manage outbreaks."
+            ]
+        },
+        {
+            "tag": "Shingles",
+            "patterns": [
+                "painful rash, blisters, itching, fever, headache"
+            ],
+            "responses": [
+                "You might have shingles. Consult a healthcare provider for antiviral medications and pain relief."
+            ]
+        }
+    ]
+}
