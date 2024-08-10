@@ -35,6 +35,7 @@ The chatbot's functionality is tested and deployed using:
 
 ### Clone the Repository:
 > git clone repository-url
+
 > cd repository-directory
 
 ### Install Dependencies:
